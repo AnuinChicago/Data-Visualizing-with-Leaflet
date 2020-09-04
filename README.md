@@ -12,8 +12,10 @@ The following steps are taken in order to create the visualization:
 
    Created a map using Leaflet that plots the earthquakes from data set based on their longitude and latitude.
 
-    Data markers reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes appear larger and darker in color.
-
+   Data markers reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes appear larger and darker in color.
+   
    Included popups that provide additional information about the earthquake when a marker is clicked.
 
    Created a legend that will provide context for the map data.
+   
+   ![eq](eq1.png)
